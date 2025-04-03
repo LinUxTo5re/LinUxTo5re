@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **[Hybrid Crypto Analysis](https://github.com/LinUxTo5re/crypto_hybrid_analysis)**
 
-- 📫 Write me on  **Ajabechaitanya4ml@gmail.com**
+- 📫 Write me on  **dev.LinUxTo5re@proton.me**
 
 <h3 align="left"><u>Connect with me:</u></h3>
 <br>
