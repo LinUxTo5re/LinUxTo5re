@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linuxto5re" alt="linuxto5re" /></a> </p>
 
-- 🔭 Currently working on **[Hybrid Crypto Analysis](https://github.com/LinUxTo5re/crypto_hybrid_analysis)**
+- 🔭 Currently working on **[Trade Navigator](https://github.com/LinUxTo5re/TradeNavigator)**
 
 - 📫 Write me on  **dev.LinUxTo5re@proton.me**
 
